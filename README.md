@@ -10,3 +10,5 @@ zzzzzzzz
 zz
 zz
 zz
+ECHO 处于打开状态。
+ECHO 处于打开状态。
